@@ -38,7 +38,12 @@
       "settings": {
         "files.insertFinalNewline": true
       },
-      "extensions": ["shardulm94.trailing-spaces"]
+      "extensions": [
+        "shardulm94.trailing-spaces",
+        "Yunduo.color-highlight-css-color-4",
+        "bradlc.vscode-tailwindcss",
+        "ms-edgedevtools.vscode-edge-devtools"
+      ]
     }
   },
   // Use 'forwardPorts' to make a list of ports inside the container available locally.
